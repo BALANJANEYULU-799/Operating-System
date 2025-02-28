@@ -1,3 +1,4 @@
+/*producers-consumers problem*/
 #include<stdio.h>
 #include<stdlib.h>
 
